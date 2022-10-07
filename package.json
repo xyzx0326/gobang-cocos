@@ -1,8 +1,8 @@
 {
   "name": "gobang",
   "uuid": "a23b0e9d-3e8d-44a4-a4c7-81f44cc1dbc6",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "creator": {
-    "version": "3.6.0"
+    "version": "3.6.1"
   }
 }

@@ -128,7 +128,8 @@
       "tween",
       "ui",
       "video",
-      "webview"
+      "webview",
+      "xr"
     ],
     "noDeprecatedFeatures": {
       "value": false,

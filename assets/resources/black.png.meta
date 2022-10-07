@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.24",
+  "ver": "1.0.25",
   "importer": "image",
   "imported": true,
   "uuid": "d8ed19b3-46d8-45c2-88bb-f0b6518970b7",
@@ -39,7 +39,7 @@
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
-        "trimType": "auto",
+        "trimType": "custom",
         "trimThreshold": 1,
         "rotated": false,
         "offsetX": 0,
@@ -129,6 +129,9 @@
     "type": "sprite-frame",
     "fixAlphaTransparencyArtifacts": true,
     "hasAlpha": true,
-    "redirect": "d8ed19b3-46d8-45c2-88bb-f0b6518970b7@f9941"
+    "redirect": "d8ed19b3-46d8-45c2-88bb-f0b6518970b7@f9941",
+    "compressSettings": {
+      "useCompressTexture": true
+    }
   }
 }
