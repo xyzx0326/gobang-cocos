@@ -28,7 +28,6 @@ export class select extends Component {
             g.arc(0, 0, this.round, 4 / 5 * Math.PI, 5 / 5 * Math.PI, true);
             g.arc(0, 0, this.round, 6 / 5 * Math.PI, 7 / 5 * Math.PI, true);
             g.arc(0, 0, this.round, 8 / 5 * Math.PI, 9 / 5 * Math.PI, true);
-            g.setEntityOpacity(0.5)
             g.stroke();
             setInterval(() => {
                 this.ro = this.ro + 0.5;
@@ -55,7 +54,6 @@ export class select extends Component {
         g.arc(0, 0, this.round, 4 / 5 * Math.PI, 5 / 5 * Math.PI, true);
         g.arc(0, 0, this.round, 6 / 5 * Math.PI, 7 / 5 * Math.PI, true);
         g.arc(0, 0, this.round, 8 / 5 * Math.PI, 9 / 5 * Math.PI, true);
-        g.setEntityOpacity(0.5)
         g.stroke();
         setInterval(() => {
             this.ro = this.ro + 0.5;
